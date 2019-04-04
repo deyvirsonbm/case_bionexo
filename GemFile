@@ -2,8 +2,6 @@ source "https://rubygems.org"
 
 gem 'selenium-webdriver'
 gem 'cucumber'
-gem 'rubocop'
 gem 'pry'
 gem 'faker'
-
-
+gem 'rspec'
